@@ -101,7 +101,7 @@ main { padding-bottom: 80px; }
 .read-more:hover { color: var(--site-text, #e5eefb); }
 
 .article-page { max-width: 820px; padding: 92px 0 40px; }
-.article-page h1 { max-width: 900px; font-size: clamp(2.8rem, 7vw, 6rem); }
+.article-page h1 { max-width: 900px; font-size: clamp(2.3rem, 5vw, var(--site-article-title-max-size, 4.2rem)); line-height: 1.04; }
 .article-topline { margin-bottom: 24px; }
 .summary { max-width: 700px; margin: 0 0 46px; color: var(--site-muted, #94a3b8); font-size: clamp(1.15rem, 2vw, 1.4rem); }
 .article-topics { margin: -22px 0 44px; }
