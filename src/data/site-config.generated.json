@@ -11,7 +11,7 @@
   "mutedColor": "#94a3b8",
   "maxWidth": "1180px",
   "cardRadius": "20px",
-  "articleTitleMaxSize": "4.2rem",
+  "articleTitleMaxSize": "2.8rem",
   "showTopics": true,
   "showScore": false,
   "showSources": true,
