@@ -1,7 +1,15 @@
 {
-  "name": "PulseMesh",
-  "description": "经过筛选、核验和语言生成的加密行业资讯。",
-  "tagline": "先看事实，再看叙事。",
+  "name": "BitNews",
+  "description": "经过来源筛选、证据核验和 AI 辅助整理的加密行业重要资讯。",
+  "tagline": "只看重要变化，保留核验来源。",
+  "locale": "zh-CN",
+  "publisherName": "BitNews",
+  "authorName": "BitNews 编辑部",
+  "contactUrl": "https://github.com/nanlong/pulse-mesh-site/issues",
+  "aiDisclosure": "内容由 PulseMesh 自动化流程辅助采集、筛选与整理，保留原始来源；事实、来源观点与推断明确区分，不构成投资建议。",
+  "socialImageUrl": "",
+  "newsletterUrl": "",
+  "sponsorUrl": "",
   "theme": "midnight",
   "primaryColor": "#8b5cf6",
   "accentColor": "#22d3ee",
@@ -15,5 +23,5 @@
   "showTopics": true,
   "showScore": false,
   "showSources": true,
-  "footerText": "PulseMesh · Signal over noise."
+  "footerText": "BitNews · Powered by PulseMesh"
 }
